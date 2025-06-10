@@ -95,6 +95,6 @@ $(".navbar__area-menu-bar").click(function(){
   $(".slide-navbar").addClass("slide-toggle")
 });
 
-$(".dismess-btn").click(function(){
+$(".dismiss-btn").click(function(){
   $(".slide-navbar").removeClass("slide-toggle")
 });
