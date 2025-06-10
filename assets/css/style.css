@@ -186,6 +186,15 @@ h4 {
     width: 13px;
 }
 
+.dismiss-btn{
+    font-size: 20px;
+    transition: .3s;
+}
+
+.dismiss-btn:hover{
+    transform: rotate(360deg);
+}
+
 /* ======================================header-section-end=============================== */
 
 /* ======================================about-section-start=============================== */
