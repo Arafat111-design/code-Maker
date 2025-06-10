@@ -186,12 +186,12 @@ h4 {
     width: 13px;
 }
 
-.dismiss-btn{
+.dismiss-btn i{
     font-size: 20px;
     transition: .3s;
 }
 
-.dismiss-btn:hover{
+.dismiss-btn i:hover{
     transform: rotate(360deg);
 }
 
