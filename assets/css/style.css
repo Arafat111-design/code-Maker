@@ -188,6 +188,7 @@ h4 {
 
 .dismiss-btn{
     display: block;
+    cursor: pointer;
 }
 
 .dismiss-btn i{
